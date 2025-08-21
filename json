@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "3DvadZHBhet42YpzYTdjyDMLuJehJfznnH58tYjhqLkb",
+  "symbol": "BNU",
+  "name": "Banana Inu",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/mikelkeli156-sys/banana-inu/main/assets/mainnet/B6796B50-28E1-4E36-BCFC-3F645002FBD7.png",
+  "tags": ["memecoin"],
+   "extensions": {
+    "twitter": "https://x.com/bananainu11?s=21"
+    "telegram": "https://t.me/+nqM7U7omGdhmNjI0"
