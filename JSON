@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "3DvadZHBhet42YpzYTdjyDMLuJehJfznnH58tYjhqLkb",
+  "symbol": "BNU",
+  "name": "Banana Inu",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/mikelkeli156-sys/token-list/main/assets/mainnet/3DvadZHBhet42YpzYTdjyDMLuJehJfznnH58tYjhqLkb/logo.png",
+  "extensions": {
+    "website": "https://mikelkeli156-sys.github.io/banana-inu-token/",
+    "twitter": "https://x.com/bananainu11?s=21",
+    "telegram": "https://t.me/+nqM7U7omGdhmNjI0",
+  }
+}
